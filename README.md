@@ -108,7 +108,10 @@ Vídeo: <https://youtu.be/Ckv2EkiNEGc>
 
 Código:
 
-<iframe height="265" style="width: 100%;" scrolling="no" title="dbo-2020-2-apnp-6.8-box-model-shadow-and-structure" src="https://codepen.io/profmarciotorres/embed/preview/YzGKWPo?height=265&theme-id=dark&default-tab=html,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/profmarciotorres/pen/YzGKWPo'>dbo-2020-2-apnp-6.8-box-model-shadow-and-structure</a> by Prof. Márcio Torres
-  (<a href='https://codepen.io/profmarciotorres'>@profmarciotorres</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="profmarciotorres" data-slug-hash="YzGKWPo" data-preview="true" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="dbo-2020-2-apnp-6.8-box-model-shadow-and-structure">
+  <span>See the Pen <a href="https://codepen.io/profmarciotorres/pen/YzGKWPo">
+  dbo-2020-2-apnp-6.8-box-model-shadow-and-structure</a> by Prof. Márcio Torres (<a href="https://codepen.io/profmarciotorres">@profmarciotorres</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
